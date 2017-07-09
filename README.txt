@@ -7,7 +7,7 @@ INSTRUCTION
 1. Download zip file and extract it.
 2. Download training data from below google drive link and copy it to 
    ‘./input/’ folder.
-   Google Drive Link: https://drive.google.com/open?id=0By_N8cr9IF7dWU9tVXZKdWJDNk0
+   Google Drive Link: https://drive.google.com/open?id=0By_N8cr9IF7dWU9tVXZKdWJDNk0 (This link has broken now)
 3. Set r+w+x permissions for ‘run.sh’ (i.e. chmod 777 run.sh).
 4. Execute ‘run.sh’ file. (Note: You may have to execute doc2unix command 
    on shell script file before executing it.)
